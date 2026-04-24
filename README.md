@@ -10,7 +10,7 @@ I am a results-driven **Software Engineer** and **Full-Stack Developer** current
 - 🏛️ **Leadership**: Secretary General of the **Computing and Innovation Society of Laikipia University (CISLU)**.
 - 🚀 **Current Focus**: Architecting the **Laikipia E-Vote** system, transitioning from traditional centralized databases to a hybrid **Blockchain-backed** verification model.
 - 🛠️ **Experience**: Software Engineering Attaché at **Teach2Give**, where I contribute to production-ready apps and CI/CD pipelines.
-- 📈 **Trading**: I also perform technical analysis on **Forex (GBP/USD)**, applying the same analytical rigor to the markets as I do to my code.
+- 📈 **Technical Analysis**: I apply analytical rigor to **Forex (GBP/USD)** markets, mirroring my approach to debugging complex codebases.
 
 ---
 
@@ -30,37 +30,35 @@ I am a results-driven **Software Engineer** and **Full-Stack Developer** current
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-### 🗄️ Database & DevOps
+### 🗄️ Database & Deployment
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Impact Projects
 
-### 🗳️ [Laikipia E-Vote](https://github.com/gakenye/laikipia-e-vote)
+### 🗳️ Laikipia E-Vote
 **Decentralized Student Voting System**
-* **Problem**: Student distrust in traditional voting systems.
-* **Solution**: A hybrid application using **React/Node** for UX and **Ethereum Sepolia** for immutable vote verification.
-* **Stack**: PERN Stack, Solidity, Smart Contracts.
+* **The Mission**: Modernizing university elections by replacing standard SQL vote tables with **Ethereum Sepolia** smart contracts for immutable truth.
+* **Stack**: PERN Stack (PostgreSQL, Express, React, Node), Solidity, TypeScript.
 
-### 🏠 [Unihaven](https://github.com/gakenye/unihaven)
+### 🏠 Unihaven
 **Hostel Discovery & Management Platform**
-* **Focus**: Mobile-first application using **React Native** to help students locate and review hostels in Laikipia.
-* **Features**: Real-time room availability, pricing tiers, and a student review ecosystem.
+* **The Mission**: A mobile-first **React Native** application helping students navigate off-campus housing with verified reviews and real-time room availability.
 
-### 💎 [Anma Perfumes & Jewellery](https://github.com/gakenye/anma-ecommerce)
+### 💎 Anma Perfumes & Jewellery
 **Full-Stack E-commerce Solution**
-* Custom-built storefront with dynamic category filtering and optimized media management for high-end retail products.
+* Custom-built storefront featuring high-performance media management and dynamic product filtering.
 
 ---
 
 ## 📊 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gakenye&show_icons=true&theme=tokyonight&border_radius=10" alt="Gakenye's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gakenye&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" alt="Gakenye's GitHub Stats" />
 </p>
 
 <p align="center">
