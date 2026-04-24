@@ -1,57 +1,77 @@
 # 👋 Hi, I'm Gakenye Ndiritu
-### Full-Stack Software Engineer | TypeScript Specialist | Product Architect
+### Certified Software Engineer | Full-Stack & Blockchain Developer | Technical Leader
 
-I’m a software engineer who bridges the gap between complex backend logic and intuitive frontend design. Currently, I'm deep in the world of **scalable event-driven architectures** and **seamless global payment integrations**.
-
----
-
-## 🧠 About Me
-
-- 🔭 **Currently Building**: A high-performance **Event & Ticketing System**. It's not just a CRUD app; it handles real-time seat availability, automated ticketing via email, and global payment flows.
-- ⚡ **Technical Philosophy**: I believe in "Type-Safe Everything." My stack is centered around TypeScript, from the UI (React) to the DB (Drizzle ORM).
-- 🕹️ **When I'm AFK**: I’m likely gaming, exploring UI design patterns on Dribbble, or experimenting with new DevOps tools to automate my deployments.
+I am a results-driven **Software Engineer** and **Full-Stack Developer** currently pursuing my BSc. in Computer Science at **Laikipia University**. I specialize in building high-integrity systems, ranging from e-commerce platforms to decentralized governance tools.
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Professional Profile & Leadership
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyUI-5014B9?style=for-the-badge&logo=daisyui&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
-| **DevOps** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
+- 🏛️ **Leadership**: Secretary General of the **Computing and Innovation Society of Laikipia University (CISLU)**.
+- 🚀 **Current Focus**: Architecting the **Laikipia E-Vote** system, transitioning from traditional centralized databases to a hybrid **Blockchain-backed** verification model.
+- 🛠️ **Experience**: Software Engineering Attaché at **Teach2Give**, where I contribute to production-ready apps and CI/CD pipelines.
+- 📈 **Trading**: I also perform technical analysis on **Forex (GBP/USD)**, applying the same analytical rigor to the markets as I do to my code.
 
 ---
 
-## 🚀 Featured Project
+## 🛠 Technical Arsenal
 
-### 🎟️ [Event & Ticketing Management System](https://github.com/gakenye/event-ticketing-management-system)
-*A robust platform designed to handle the full lifecycle of event management.*
+### 🌐 Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-- **The Problem**: Handling high-concurrency ticket sales and ensuring secure, global payment processing without double-booking.
-- **The Solution**: Built a Type-safe architecture using **TypeScript** and **Drizzle ORM**, integrated **Stripe** for global payments, and utilized **PostgreSQL** for ACID-compliant transactions.
-- **Key Features**:
-  - ✅ Real-time ticket availability tracking.
-  - ✅ Secure checkout with Stripe.
-  - ✅ Dynamic dashboard for event organizers.
-  - ✅ Responsive UI crafted with DaisyUI & React Bits.
+### ⚙️ Backend & Blockchain
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
+### 🗄️ Database & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📈 Activity & Stats
+## 🚀 Impact Projects
+
+### 🗳️ [Laikipia E-Vote](https://github.com/gakenye/laikipia-e-vote)
+**Decentralized Student Voting System**
+* **Problem**: Student distrust in traditional voting systems.
+* **Solution**: A hybrid application using **React/Node** for UX and **Ethereum Sepolia** for immutable vote verification.
+* **Stack**: PERN Stack, Solidity, Smart Contracts.
+
+### 🏠 [Unihaven](https://github.com/gakenye/unihaven)
+**Hostel Discovery & Management Platform**
+* **Focus**: Mobile-first application using **React Native** to help students locate and review hostels in Laikipia.
+* **Features**: Real-time room availability, pricing tiers, and a student review ecosystem.
+
+### 💎 [Anma Perfumes & Jewellery](https://github.com/gakenye/anma-ecommerce)
+**Full-Stack E-commerce Solution**
+* Custom-built storefront with dynamic category filtering and optimized media management for high-end retail products.
+
+---
+
+## 📊 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gakenye&show_icons=true&theme=tokyonight&count_private=true" alt="Gakenye's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakenye&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gakenye&show_icons=true&theme=tokyonight&border_radius=10" alt="Gakenye's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakenye&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) (Update this link!)
-- 🐦 [Twitter/X](https://twitter.com/your-handle) (Update this link!)
-- 📧 [Email Me](mailto:your-email@example.com)
+## 📫 Let's Collaborate
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 [Email](mailto:your-email@example.com)
+- 🌍 Based in **Laikipia, Kenya**
 
----
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+*"Engineering solutions that don't just work—they endure."*
