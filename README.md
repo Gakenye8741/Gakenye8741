@@ -101,6 +101,7 @@ I am a results-driven **Software Engineer** and **Full-Stack Developer** current
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gakenye8741)  
+[![BuyMeASoda](https://img.shields.io/badge/Buy%20Me%20a%20Soda-00b4d8?style=for-the-badge&logo=ko-fi&logoColor=white)](https://buymesoda.com/EiQ80J32X0VP1INNXA2dIOfnkkJ2)
 
 ---
 *"Engineering solutions that don't just work—they endure."*
