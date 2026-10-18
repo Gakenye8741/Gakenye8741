@@ -102,7 +102,7 @@ I’m a Computer Science student at **Laikipia University** and a Software Engin
 
 ## 🎯 Quick Facts
 
-- 📍 Based in **Nairobi, Kenya**
+- 📍 Based in **Nyeri, Kenya**
 - ☕ Powered by **Coffee** and **Code**
 - 🎮 Enjoy **Game Development** in my free time
 - 📖 Lover of **Technical Documentation** and **Open Source**
