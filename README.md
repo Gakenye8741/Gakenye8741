@@ -55,6 +55,32 @@ I’m a Computer Science student at **Laikipia University** and a Software Engin
 
 ---
 
+## 📚 Currently Learning
+
+- **Web3 & Solidity**: Building more complex smart contracts for Secure-Vote.
+- **Docker & Kubernetes**: Containerizing my full-stack apps for production deployment.
+- **System Design**: Studying scalable architecture patterns for high-traffic applications.
+
+---
+
+## 🤝 Collaboration & Communication
+
+- **Languages**: English (Fluent), Swahili (Native).
+- **Availability**: Open for freelance projects and internships.
+- **Response Time**: Usually within 24 hours.
+- **Preferred Contact**: Email or LinkedIn for professional inquiries.
+
+---
+
+## 🏅 Certifications & Achievements
+
+- **Software Engineering Bootcamp Graduate** | Teach2Give (2024)
+- **Secretary General** | CISLU, Laikipia University
+- **Pull Shark** | GitHub Achievement for PR contributions
+- **Fiber Optic Deployment** | Hands-on networking experience
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🗳️ Secure-Vote
@@ -71,6 +97,15 @@ I’m a Computer Science student at **Laikipia University** and a Software Engin
 **E-Commerce Platform**
 > Custom fragrance builder API, multi-branch inventory tracking, and dynamic PDF receipts.
 - **Stack:** React, Node.js, Express, MySQL
+
+---
+
+## 🎯 Quick Facts
+
+- 📍 Based in **Nairobi, Kenya**
+- ☕ Powered by **Coffee** and **Code**
+- 🎮 Enjoy **Game Development** in my free time
+- 📖 Lover of **Technical Documentation** and **Open Source**
 
 ---
 
